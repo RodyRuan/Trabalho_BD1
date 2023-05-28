@@ -30,6 +30,8 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 #### 4.2 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?
 
 > A Empresa FitMarket precisa inicialmente dos seguintes relatórios:
+
+
 1- Relatório de vendas por fornecedor: Apresenta o total de vendas realizadas por cada fornecedor cadastrado no sistema, permitindo avaliar o desempenho de cada parceiro.
 
 2- Relatório de estoque baixo: Lista os produtos que estão com quantidade abaixo de um limite pré-definido, auxiliando na identificação de produtos que precisam ser repostos.
