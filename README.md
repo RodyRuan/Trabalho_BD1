@@ -323,8 +323,26 @@ VALUES
 ### 9	TABELAS E PRINCIPAIS CONSULTAS<br>
     OBS: Incluir para cada tópico as instruções SQL + imagens (print da tela) mostrando os resultados.<br>
 #### 9.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS (Todas) <br>
+--Tabela: fornecedores
+![image](https://github.com/RodyRuan/Trabalho_BD1/assets/112021384/5b299264-7589-4be4-8b84-c81bbc468d3c)
 
-># Marco de Entrega 01: Do item 1 até o item 9.1<br>
+--Tabela: produtos_categoria
+![image](https://github.com/RodyRuan/Trabalho_BD1/assets/112021384/06267cc8-ec96-497d-bf20-d4b650ad4ea9)
+
+--Tabela: cliente
+![image](https://github.com/RodyRuan/Trabalho_BD1/assets/112021384/240deb3b-d565-467a-a34c-f927f6aa173e)
+
+--Tabela: compra
+![image](https://github.com/RodyRuan/Trabalho_BD1/assets/112021384/7153f525-c0f3-4449-88bb-8a5624071d64)
+
+--Tabela: vende
+![image](https://github.com/RodyRuan/Trabalho_BD1/assets/112021384/9da536e8-f973-4996-877f-4fdfc25d142b)
+
+--Tabela: item_compra
+![image](https://github.com/RodyRuan/Trabalho_BD1/assets/112021384/93b10281-49cd-4dab-900d-4a9b7c3fb678)
+
+--Tabela: adiciona_no_carrinho
+![image](https://github.com/RodyRuan/Trabalho_BD1/assets/112021384/cfb2a64f-2cda-4d33-9bc4-d28b41b7d385)
 
 #### 9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE (Mínimo 4)<br>
 #### 9.3	CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E TABELAS OU CAMPOS RENOMEADOS (Mínimo 11)
